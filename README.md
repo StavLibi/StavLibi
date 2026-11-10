@@ -12,6 +12,8 @@ Sometimes I build things to solve problems. Sometimes I build things because the
 
 **Ultimate goal:** Build enough gadgets to evolve into a Mega Axolotl.
 
+![My Axolotl](axolotl.png)
+
 ## Tech Stack
 
 **Programming Languages**
