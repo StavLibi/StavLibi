@@ -32,7 +32,6 @@
 <code>Flutter</code> <code>ESP32</code>
 <code>Arduino</code> <code>Raspberry Pi</code>
 <code>IoT</code>
-<br>
 </p>
 
 </td></tr>
