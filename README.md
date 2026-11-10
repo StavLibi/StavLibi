@@ -1,5 +1,3 @@
- 
-```html
 <div align="center">
 
 <h1>Hey, I'm Stav!</h1>
@@ -42,4 +40,4 @@
 <p><i>One commit closer to becoming a Mega Axolotl.</i></p>
 
 </div>
-```
+
