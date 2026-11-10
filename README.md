@@ -4,13 +4,9 @@
 <table bgcolor="#eeeeee" width="100%">
 <tr><td align="center">
 
-<h2>𝓒𝓸𝓭𝓮, 𝓒𝓲𝓻𝓬𝓾𝓲𝓽𝓼 &amp; 𝓒𝓾𝓻𝓲𝓸𝓼𝓲𝓽𝔂</h2>
-
 <h3>Software Developer | Embedded Systems | Mobile & Web</h3>
 
 <p>Computer Science student &amp; certified Software Developer and QA.</p>
-
-<p><i>I build things for fun. I just happen to take my fun very seriously.</i></p>
 
 <img src="axolotl.jpg" width="160" alt="Axolotl">
 <img src="megaAxo.png" width="200" alt="Mega Axolotl">
