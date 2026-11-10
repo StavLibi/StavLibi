@@ -12,7 +12,9 @@ Sometimes I build things to solve problems. Sometimes I build things because the
 
 **Ultimate goal:** Build enough gadgets to evolve into a Mega Axolotl.
 
-![My Axolotl](axolotl.png)
+<p align="center">
+  <img src="axolotl.png" width="300" alt="Axolotl">
+</p>
 
 ## Tech Stack
 
