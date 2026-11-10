@@ -18,9 +18,6 @@
 
 <p>Sometimes I build things to solve problems. Sometimes I build things because they sound cool at 3 AM.</p>
 
-<p><b>Ultimate goal:</b> Build enough gadgets to evolve into a Mega Axolotl.</p>
-
-
 
 <h2>Tech Stack</h2>
 
