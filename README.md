@@ -1,6 +1,6 @@
 <div align="center">
 
-<h2>Hey, I'm Stav!</h2>
+<h2>𝓒𝓸𝓭𝓮, 𝓒𝓲𝓻𝓬𝓾𝓲𝓽𝓼 &amp; 𝓒𝓾𝓻𝓲𝓸𝓼𝓲𝓽𝔂</h2>
 
 <h3>Software Developer | Embedded Systems | Mobile & Web</h3>
 
