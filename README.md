@@ -4,8 +4,7 @@
 <table width="100%">
 <tr>
 <td align="center">
-
-<h3>Software Developer | Embedded Systems | Mobile &amp; Web</h3>
+<p><strong>Software Developer | Embedded Systems | Mobile &amp; Web</strong></p>
 
 <p>Computer Science student &amp; certified Software Developer and QA.</p>
 
