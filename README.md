@@ -7,7 +7,7 @@
 
 <p><i>Just an axolotl with a head full of questionable ideas, a passion for building gadgets, and a dream of evolving into the ultimate Mega Axolotl.</i></p>
 
-<img src="axolotl.jpg" width="200" alt="reg">
+<img src="axolotl.jpg" width="300" alt="reg">
 
 
 <img src="megaAxo.png" width="300" alt="reg">
