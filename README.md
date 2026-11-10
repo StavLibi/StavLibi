@@ -1,8 +1,12 @@
+<p align="center">
 # Hey there, I'm Stav!
 
 **Software Developer | Embedded Systems | Mobile & Web Development**
 
 *Just an axolotl with a head full of questionable ideas, a passion for building gadgets, and a dream of evolving into the ultimate Mega Axolotl.*
+
+  <img src="axolotl.jpg" width="200" alt="Axolotl">
+
 
 I'm a second-year Computer Science student, certified in Software Development and Quality Assurance (QA).
 
@@ -12,9 +16,7 @@ Sometimes I build things to solve problems. Sometimes I build things because the
 
 **Ultimate goal:** Build enough gadgets to evolve into a Mega Axolotl.
 
-<p align="center">
-  <img src="axolotl.jpg" width="300" alt="Axolotl">
-</p>
+
 
 ## Tech Stack
 
@@ -53,3 +55,4 @@ A Flutter-based mobile application communicating with an ESP32 over Bluetooth to
 ---
 
 *Building things nobody asked for, one commit closer to becoming a Mega Axolotl.*
+</p>
