@@ -7,7 +7,7 @@
 
 <p><i>Just an axolotl with a head full of questionable ideas, a passion for building gadgets, and a dream of evolving into the ultimate Mega Axolotl.</i></p>
 
-<img src="axolotl.jpg" width="300" alt="Mega Axolotl">
+<img src="axolotl.jpg" width="200" alt="reg">
 
 <p>I'm a second-year Computer Science student, certified in Software Development and Quality Assurance (QA).</p>
 
@@ -16,6 +16,8 @@
 <p>Sometimes I build things to solve problems. Sometimes I build things because they sound cool at 3 AM.</p>
 
 <p><b>Ultimate goal:</b> Build enough gadgets to evolve into a Mega Axolotl.</p>
+
+
 
 <h2>Tech Stack</h2>
 
