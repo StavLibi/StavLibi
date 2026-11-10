@@ -9,7 +9,7 @@
 <p><i>I build things for fun. I just happen to take my fun very seriously.</i></p>
 
 <img src="axolotl.jpg" width="160" alt="Axolotl">
-<img src="megaAxo.png" width="160" alt="Mega Axolotl">
+<img src="megaAxo.png" width="200" alt="Mega Axolotl">
 
 <p><i>From a curious axolotl to the ultimate Mega Axolotl.</i></p>
 
