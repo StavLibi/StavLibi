@@ -13,7 +13,7 @@ Sometimes I build things to solve problems. Sometimes I build things because the
 **Ultimate goal:** Build enough gadgets to evolve into a Mega Axolotl.
 
 <p align="center">
-  <img src="axolotl.png" width="300" alt="Axolotl">
+  <img src="axolotl.jpg" width="300" alt="Axolotl">
 </p>
 
 ## Tech Stack
