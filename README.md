@@ -10,7 +10,7 @@
 <img src="axolotl.jpg" width="200" alt="reg">
 
 
-<img src="megaAxo.png" width="200" alt="reg">
+<img src="megaAxo.png" width="300" alt="reg">
 
 <p>I'm a second-year Computer Science student, certified in Software Development and Quality Assurance (QA).</p>
 
