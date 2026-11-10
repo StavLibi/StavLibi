@@ -9,6 +9,9 @@
 
 <img src="axolotl.jpg" width="200" alt="reg">
 
+
+<img src="megaAxo.png" width="200" alt="reg">
+
 <p>I'm a second-year Computer Science student, certified in Software Development and Quality Assurance (QA).</p>
 
 <p>I love building gadgets, experimenting with microcontrollers, combining hardware with software, and turning ridiculous sci-fi ideas into actual projects.</p>
