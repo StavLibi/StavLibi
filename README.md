@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Hey, I'm Stav!</h1>
+<h2>Hey, I'm Stav!</h2>
 
 <h3>Software Developer | Embedded Systems | Mobile & Web</h3>
 
@@ -13,7 +13,7 @@
 
 <p><i>From a curious axolotl to the ultimate Mega Axolotl.</i></p>
 
-<h2>Tech Stack</h2>
+<h3>Tech Stack</h3>
 
 <p>
 <code>Java</code> <code>Python</code> <code>C</code> <code>C++</code> <code>C#</code> <code>Dart</code>
