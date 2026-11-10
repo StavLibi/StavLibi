@@ -1,66 +1,45 @@
-
+ 
+```html
 <div align="center">
 
-<h1>Hey there, I'm Stav!</h1>
+<h1>Hey, I'm Stav!</h1>
 
-<h3>Software Developer | Embedded Systems | Mobile & Web Development</h3>
+<h3>Software Developer | Embedded Systems | Mobile & Web</h3>
 
-<p><i>Just an axolotl with a head full of questionable ideas, a passion for building gadgets, and a dream of evolving into the ultimate Mega Axolotl.</i></p>
+<p>Computer Science student & certified Software Developer and QA.</p>
 
-<img src="axolotl.jpg" width="300" alt="reg">
+<p><i>I build things for fun. I just happen to take my fun very seriously.</i></p>
 
+<img src="axolotl.jpg" width="160" alt="Axolotl">
+<img src="megaAxo.png" width="300" alt="Mega Axolotl">
 
-<img src="megaAxo.png" width="300" alt="reg">
-
-<p>I'm a second-year Computer Science student, certified in Software Development and Quality Assurance (QA).</p>
-
-<p>I love building gadgets, experimenting with microcontrollers, combining hardware with software, and turning ridiculous sci-fi ideas into actual projects.</p>
-
-<p>Sometimes I build things to solve problems. Sometimes I build things because they sound cool at 3 AM.</p>
-
+<p><i>From a curious axolotl to the ultimate Mega Axolotl.</i></p>
 
 <h2>Tech Stack</h2>
-
-<h3>Programming Languages</h3>
 
 <p>
 <code>Java</code> <code>Python</code> <code>C</code> <code>C++</code> <code>C#</code> <code>Dart</code>
 </p>
 
-<h3>Development</h3>
-
 <p>
-<code>Flutter</code> <code>Mobile Development</code> <code>Web Development</code> <code>Embedded Systems</code> <code>IoT</code>
+<code>Flutter</code> <code>ESP32</code> <code>Arduino</code> <code>Raspberry Pi</code> <code>IoT</code>
 </p>
 
-<h3>Hardware & Electronics</h3>
+<h2>My Projects</h2>
 
-<p>
-<code>Microcontrollers</code> <code>ESP32</code> <code>Arduino</code> <code>Raspberry Pi</code> <code>Sensors</code> <code>Hardware-Software Integration</code>
-</p>
+<p><b>SonicCore</b> — ESP32 Multi-Channel Audio System</p>
+<p><a href="https://github.com/StavLibi/Esp32-sonic">Explore Project</a></p>
 
-<h2>Featured Projects</h2>
+<p><b>ESP32 Flutter AI Math Bridge</b> — Bluetooth & AI Integration</p>
+<p><a href="https://github.com/StavLibi/ESP32-Flutter-AI-Math-Bridge">Explore Project</a></p>
 
-<h3>SonicCore — Multi-Channel Audio System</h3>
-
-<p>A custom ESP32-based audio system designed for Bluetooth audio streaming, stereo audio routing, multiple amplifiers, speaker control, and a display interface.</p>
-
-<p>Currently working on the hardware architecture, firmware development, and system integration.</p>
-
-<p><a href="https://github.com/StavLibi/Esp32-sonic">Explore SonicCore</a></p>
-
-<h3>ESP32 Flutter AI Math Bridge</h3>
-
-<p>A Flutter-based mobile application communicating with an ESP32 over Bluetooth to process mathematical requests locally or through AI integration.</p>
-
-<p><a href="https://github.com/StavLibi/ESP32-Flutter-AI-Math-Bridge">Explore the Project</a></p>
-
-<h2>Connect With Me</h2>
+<h2>Find Me</h2>
 
 <p><a href="https://www.linkedin.com/in/stav-ganz-a264213b8/">LinkedIn</a></p>
 
 <hr>
 
-<p><i>Building things nobody asked for, one commit closer to becoming a Mega Axolotl.</i></p>
+<p><i>One commit closer to becoming a Mega Axolotl.</i></p>
 
 </div>
+```
